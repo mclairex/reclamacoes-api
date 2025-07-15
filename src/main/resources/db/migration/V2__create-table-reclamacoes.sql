@@ -1,0 +1,1 @@
+ALTER TABLE reclamacoes ADD COLUMN status VARCHAR(50);
