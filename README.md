@@ -1,6 +1,6 @@
 # 📢 Ouvidoria Digital - Backend
 
-Este é o back-end do sistema de gerenciamento de reclamações **Ouvidoria Digital**, desenvolvido em **Spring Boot**. Ele permite que usuários autentiquem-se de forma segura, registrem suas reclamações e as consultem posteriormente, com total controle e integridade dos dados.
+Este é o back-end do sistema de gerenciamento de reclamações **Ouvidoria Digital**, desenvolvido em **Spring Boot**. Ele permite que usuários autentiquem-se de forma segura, registrem suas reclamações e as consultem posteriormente.
 
 ## 🚀 Tecnologias utilizadas
 
