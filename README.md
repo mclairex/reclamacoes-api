@@ -12,7 +12,6 @@ Este é o back-end do sistema de gerenciamento de reclamações **Ouvidoria Digi
 - **Banco de Dados PostgreSQL**
 - **Lombok**
 - **Maven**
-- **Integração com WebGate (Auth)**
 
 ## 🔐 Autenticação
 
