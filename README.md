@@ -17,10 +17,10 @@ Este é o back-end do sistema de gerenciamento de reclamações **Ouvidoria Digi
 
 A aplicação depende de um banco PostgreeSQL com as seguintes credenciais:
 
-Banco: ouvidoria_digital
-Usuário: mclairex
-Senha: mcsoliveira
-Porta: 5432
+- Banco: ouvidoria_digital
+- Usuário: mclairex
+- Senha: mcsoliveira
+- Porta: 5432
 
 URL JDBC: jdbc:postgresql://localhost:5432/ouvidoria_digital
 
