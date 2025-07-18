@@ -13,6 +13,18 @@ Este é o back-end do sistema de gerenciamento de reclamações **Ouvidoria Digi
 - **Lombok**
 - **Maven**
 
+##   Configurações do Banco de Dados
+
+A aplicação depende de um banco PostgreeSQL com as seguintes credenciais:
+
+Banco: ouvidoria_digital
+Usuário: mclairex
+Senha: mcsoliveira
+Porta: 5432
+
+URL JDBC: jdbc:postgresql://localhost:5432/ouvidoria_digital
+
+
 ## 🔐 Autenticação
 
 O sistema utiliza **JWT (JSON Web Token)** para autenticação e autorização.
